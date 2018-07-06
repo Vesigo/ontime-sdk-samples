@@ -10,16 +10,16 @@ These sample projects should be used along with the [OnTime Extensions SDK](http
 
 Documentation for the use of these samples is available at the [OnTime 360 Developer Resources](https://www.ontime360.com/developer/) page.
 
-To make compiling and packings these samples easier, try the [OnTime Extension Packager for Visual Studio](https://marketplace.visualstudio.com/items?itemName=vesigo-studios.ontime-extension-packager), available on the Visual Studio Marketplace.
+To make compiling and packaging these samples easier, try the [OnTime Extension Packager for Visual Studio](https://marketplace.visualstudio.com/items?itemName=vesigo-studios.ontime-extension-packager), available on the Visual Studio Marketplace.
 
 
 ## What are OnTime Extensions?
 
-OnTime Extensions behave as plug-ins or add-ins within the [OnTime courier software](https://www.ontime360.com) desktop applications. These extensions are a great way extend the functionality of OnTime. The most typical scenario for an extension is to connect OnTime with another software system. Here are some examples:
+OnTime Extensions behave as plug-ins or add-ins within the [OnTime courier software](https://www.ontime360.com) desktop applications. These extensions are a great way to extend the functionality of OnTime. The most typical scenario for an extension is to connect OnTime with another software system. Here are some examples:
 
-* Connecting OnTime’s invoice and payment data with a specific accounting system
+* Connecting OnTime's invoice and payment data with a specific accounting system
 * Transferring data to and from an EDI based system
-* Uploading order data in a specific format to a FTP server
+* Uploading order data in a specific format to an FTP server
 * Importing or exporting data to or from external sources
 
 Once installed, an extension appears as part of the OnTime desktop application in the form of a button in the ribbon or in a context menu.
