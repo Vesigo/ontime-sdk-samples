@@ -21,7 +21,8 @@ OnTime Extensions behave as plug-ins or add-ins within the [OnTime courier softw
 * Transferring data to and from an EDI based system
 * Uploading order data in a specific format to a FTP server
 * Importing or exporting data to or from external sources
-* Once installed, an extension appears as part of the OnTime desktop application in the form of a button in the ribbon or in a context menu.
+
+Once installed, an extension appears as part of the OnTime desktop application in the form of a button in the ribbon or in a context menu.
 
 ## How to Create OnTime Extensions
 
